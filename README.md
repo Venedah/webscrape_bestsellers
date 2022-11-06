@@ -15,3 +15,9 @@ The following are the objectives of this project:
 4. Provide solutions to some challenges of web scraping and how to overcome them.
 
 5. Export the clean data for further analysis.
+
+## Tools
+
+1. `requests-html`
+2. `pandas`
+3. Google Colab
