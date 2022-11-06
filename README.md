@@ -1,5 +1,7 @@
 # Scraping Bestsellers with the  `requests-html` package
 
+> This project inllustrate how to perform async web scraping and data cleaning using `requests-html` and `pandas`.
+
 ## Objectives
 
 The following are the objectives of this project:
